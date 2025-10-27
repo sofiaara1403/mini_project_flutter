@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🍭 Mini Project Flutter – Form Data Pengguna 🎀
 
 Hai! 🌸  
@@ -48,3 +49,6 @@ Berikut tampilan aplikasi saat dijalankan di browser (Flutter Web) 💻👇
 1. Pastikan Flutter sudah terinstal (bisa cek dengan perintah berikut di CMD):
    ```bash
    flutter --version
+=======
+# mini_project_flutter
+>>>>>>> 3b6585e29d90aa20a9765a8b3b2f5bdeaac6b60e
